@@ -28,5 +28,7 @@ VirusTotal recopila los resultados de más de 70 motores antivirus y escáneres 
 ## Ejemplo
 Busca el archivo invoice_payment.exe en TryDetectMe (VirusTotal).
 
+![Shodan](../Imagenes/VirusTotal.png)
+
 
 # Vulnerability Databases (CVE)
