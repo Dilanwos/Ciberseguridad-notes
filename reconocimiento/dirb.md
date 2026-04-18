@@ -17,4 +17,4 @@ dirb http://fakebank.thm
 ## ¿Que es Shodan y para que sirve?
 Shodan se describe a menudo como un motor de búsqueda para el Internet de las cosas (IoT), pero eso no le hace justicia. Shodan escanea continuamente internet, buscando equipos de red, sistemas de control industrial, cámaras de tráfico y prácticamente cualquier otra cosa con conexión a una red pública para ver qué está funcionando y dónde.
 
-
+![Shodan](../Imagenes/Shodan.png)
