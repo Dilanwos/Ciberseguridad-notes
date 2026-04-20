@@ -40,9 +40,9 @@ Las  vulnerabilidades y exposiciones comunes (CVE) es lo más parecido que tiene
 
 A cada vulnerabilidad confirmada se le asigna un identificador único con el formato  CVE-YEAR-NUMBER, como CVE-2025-55182. Si la vulnerabilidad tiene un impacto suficiente, incluso puede recibir un sobrenombre. Es posible que haya oído hablar de vulnerabilidades como Heartbleed, React2Shell y Log4Shell. A estas vulnerabilidades se les asigna una puntuación  (CVSS) basada en diversos factores, como:
 
-Impacto:  ¿Qué daños puede ocasionar esta vulnerabilidad?
-Complejidad : ¿Es fácil explotar la vulnerabilidad o no? 
-Disponibilidad : ¿Qué probabilidades hay de que alguien pueda explotar esto?
+Impacto:  ¿Qué daños puede ocasionar esta vulnerabilidad?.
+Complejidad : ¿Es fácil explotar la vulnerabilidad o no?.
+Disponibilidad : ¿Qué probabilidades hay de que alguien pueda explotar esto?.
 
 ![NVD-Vulnerabilidades1](../Imagenes/NVD-Vulnerabilidades1.png)
 
