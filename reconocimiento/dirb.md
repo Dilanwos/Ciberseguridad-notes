@@ -32,3 +32,9 @@ Busca el archivo invoice_payment.exe en TryDetectMe (VirusTotal).
 
 
 # Vulnerability Databases (CVE)
+
+## ¿Ques es Vulnerability Databases y para que sirve?
+Las  vulnerabilidades y exposiciones comunes (CVE) es lo más parecido que tiene la industria a un diccionario universal de vulnerabilidades conocidas, alli se pueden buscar las vulnerabilidades mas conocidas.
+
+![NVD-Vulnerabilidades](../Imagenes/NVD-Vulnerabilidades.png)
+
