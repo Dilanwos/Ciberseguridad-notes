@@ -57,5 +57,6 @@ Cuando se trata de solucionar problemas de comportamiento inesperado o de compre
 
 Para ver la página del manual, ejecute man <command>. Por ejemplo:
 
+![Documentacion](../Imagenes/Documentacion.png)
 
 
