@@ -60,3 +60,14 @@ Para ver la página del manual, ejecute man <command>. Por ejemplo:
 ![Documentacion](../Imagenes/Documentacion.png)
 
 
+# GitHub
+
+## ¿Como se puede encontrar las vulnerabilidades en GitHub?
+GitHub puede ser un gran recurso para mantenerse actualizado sobre las últimas amenazas y vulnerabilidades. Los investigadores a menudo publican pruebas de concepto (PoC) código, herramientas de explotación e informes técnicos detallados allí, que suelen ser más rápidos que los canales oficiales. 
+
+Buscando unCVEEl identificador (por ejemplo, CVE-2026-13337) directamente en GitHub a menudo revela repositorios que contienen código PoC, scripts de escaneo o análisis detallados de la vulnerabilidad.
+
+Dicho esto, no todas las pruebas de concepto son igual de fiables. Algunas están incompletas, otras contienen fallos intencionados y, en ocasiones, un repositorio de "pruebas de concepto" es malicioso en sí mismo. Siempre verifica lo que vas a ejecutar.
+
+
+
