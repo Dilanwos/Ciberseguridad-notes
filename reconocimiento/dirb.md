@@ -46,3 +46,16 @@ Disponibilidad : ¿Qué probabilidades hay de que alguien pueda explotar esto?
 
 ![NVD-Vulnerabilidades1](../Imagenes/NVD-Vulnerabilidades1.png)
 
+
+# Documentacion Técnica
+
+## Documentación de productos y herramientas
+Cada herramienta o plataforma de seguridad importante proporciona su propia documentación, que es la más fiable y actualizada que cualquier tutorial de terceros.
+Cuando se trata de solucionar problemas de comportamiento inesperado o de comprender cómo usar una herramienta de una manera determinada, la documentación oficial siempre debe ser lo primero que se consulte, no lo último.
+## LinuxPáginas del hombre
+¿Alguna vez te has encontrado con una herramienta o comando de línea de comandos con el que no estabas familiarizado? Linux Las páginas MANUAL te respaldan. Estas páginas sirven como documentación que puedes leer dentro de tu terminal acerca de cualquier comando en Linuxy la mayoría de las herramientas de ciberseguridad.
+
+Para ver la página del manual, ejecute man <command>. Por ejemplo:
+
+
+
